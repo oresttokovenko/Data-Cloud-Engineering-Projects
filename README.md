@@ -32,7 +32,7 @@ In this project, we will orchestrate our Data Pipeline workflow using an open-so
 
 Link:  [Airflow_Data_Pipelines](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Airflow_Data_Pipelines)
 
-## Project 6: Api Data to Postgres
+## Project 6: API Data to Postgres
 In this project, we build an etl pipeline to fetch data from yelp API and insert it into the Postgres Database. This project is a very basic example of fetching real time data from an open source API.
 
 Link: [API to Postgres](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Data_Api_to_Postgres)
