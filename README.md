@@ -6,7 +6,7 @@ In this project, I applied Data Modeling with PostgreSQL and build an ETL pipeli
 Link: [Data_Modeling_with_Postgres](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Data_Modeling_with_Postgres)
 
 ## Project 2: Data Modeling with Cassandra
-In this project, I applied Data Modeling with Cassandra and build an ETL pipeline using Python. I built a Data Model around our queries that we want to get answers for. 
+In this project, I applied Data Modeling with Cassandra and build an ETL pipeline using Python. I built a Data Model around queries that we want to get answers for. 
 
 For our use case we want to the following: 
 
