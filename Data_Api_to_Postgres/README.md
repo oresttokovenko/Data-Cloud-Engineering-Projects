@@ -1,6 +1,6 @@
 # API data to Database
 ## Overview 
-This project is to build a simple ETL pipeline to fetch real-time data from an open source API and store that data into a database. For this case we have used Yelp FUSION API as the open source API available and for database we used Postgres. 
+In this project I built a simple ETL pipeline to fetch real-time data from an open source API and store that data into a database. For this case I used the Yelp FUSION API and for database I used Postgres. 
 
 ## Config File
 ```
@@ -36,7 +36,3 @@ driver.py - Entry point for the application, contains parsing command line argum
 
 ## How to Run
 `python driver.py --term food --location Montreal --price 4` 
-
-
-## Results
-![RESULTS](https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/Data_Api_to_Postgres/Results.PNG)
