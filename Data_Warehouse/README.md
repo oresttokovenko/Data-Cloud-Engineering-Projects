@@ -3,7 +3,7 @@
 
 A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
-In this project, we will create an ETL pipeline to build a data warehouses hosted on Redshift. 
+In this project, I created an ETL pipeline to build a data warehouses hosted on Redshift. 
 
 ## Song Dataset 
 We will be working with two datasets that reside in S3. 
@@ -51,7 +51,7 @@ songplays - records in event data associated with song plays. Columns for the ta
 
 
 ## How to Run
-#### Use [Redshift_Cluster_IaC.py](https://github.com/san089/Data_Engineering_Projects/blob/master/Redshift_Cluster_IaC.py "Redshift_Cluster_IaC.py") from [Data_Engineering_Projects](https://github.com/san089/Data_Engineering_Projects) to launch Redshift Cluster.
+#### Use Redshift_Cluster_IaC.py to launch Redshift Cluster.
 
 #### Setup Configurations 
 Setup the dwh.cfg file (File not added in this repository). File format for **dwh.cfg**
