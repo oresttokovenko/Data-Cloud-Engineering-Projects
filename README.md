@@ -24,7 +24,7 @@ Use Redshift IaC script - [Redshift_IaC_README](https://github.com/oresttokovenk
 Link  - [Data_Warehouse](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Data_Warehouse)
 
 ## Project 4: Data Lake
-In this project, I built a Data Lake on AWS cloud using Spark and AWS EMR cluster. The data lake will serve as a Single Source of Truth for the Analytics Platform. We will write spark jobs to perform ELT operations that picks data from landing zone on S3 and transform and stores data on the S3 processed zone.
+In this project, I built a Data Lake on AWS cloud using Spark and AWS EMR cluster. The data lake will serve as a Single Source of Truth(SSOT) for the Analytics Platform. I wrote Spark tasks to perform ELT operations that picks data from landing zone on S3 and transform and stores data on the S3 processed zone.
 
 Link: [Data_Lake](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Data_Lake)
 
