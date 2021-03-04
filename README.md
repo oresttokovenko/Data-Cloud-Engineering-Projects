@@ -17,7 +17,7 @@ For our use case we want to the following:
 Link : [Data_Modeling_with_Apache_Cassandra](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Data_Modeling_with_Apache_Cassandra)
 
 ## Project 3: Data Warehouse
-In this project, I applied the Data Warehouse architectures we learned and build a Data Warehouse on AWS cloud. I built an ETL pipeline to extract and transform data stored in JSON format in S3 buckets and move the data to Warehouse hosted on Amazon Redshift. 
+In this project, I built a Data Warehouse on AWS cloud. I built an ETL pipeline to extract and transform data stored in JSON format in S3 buckets and move the data to Warehouse hosted on Amazon Redshift. 
 
 Use Redshift IaC script - [Redshift_IaC_README](https://github.com/oresttokovenko/Goodreads_ETL/blob/master/Redshift_IaC_README.md)
 
