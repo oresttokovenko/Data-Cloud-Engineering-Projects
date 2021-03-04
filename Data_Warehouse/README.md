@@ -6,7 +6,7 @@ A music streaming startup, has grown their user base and song database and want 
 In this project, I created an ETL pipeline to build a data warehouses hosted on Redshift. 
 
 ## Song Dataset 
-We will be working with two datasets that reside in S3. 
+There are two datasets that reside in S3. 
 
 #### Song Dataset: 
 It's a subset of real data from [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/). Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song's track ID.
