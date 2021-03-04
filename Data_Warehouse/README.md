@@ -1,7 +1,7 @@
-# Project Data Warehouse
+# Data Warehouse Project
 ## Project Overview
 
-A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
+A music streaming startup, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
 In this project, I created an ETL pipeline to build a data warehouses hosted on Redshift. 
 
