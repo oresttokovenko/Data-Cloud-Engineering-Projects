@@ -29,11 +29,11 @@ In this project, I built a Data Lake on AWS cloud using Spark and AWS EMR cluste
 Link: [Data_Lake](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Data_Lake)
 
 ## Project 5: Data Pipelines with Airflow
-In this project, I orchestrated our Data Pipeline workflow using an open-source Apache project called Apache Airflow. I scheduled ETL jobs in Airflow, created project related custom plugins and operators and automate the pipeline execution. 
+In this project, I orchestrated the Data Pipeline workflow using an open-source Apache project called Apache Airflow. I scheduled ETL jobs in Airflow, created project related custom plugins and operators and automated the pipeline execution. 
 
 Link:  [Airflow_Data_Pipelines](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Airflow_Data_Pipelines)
 
 ## Project 6: API Data to Postgres
-In this project, I built an ELT pipeline to fetch data from Yelp API and insert it into the Postgres Database. This project is a very basic example of fetching real time data from an open source API.
+In this project, I built an ELT pipeline to fetch data from Yelp API and insert it into the Postgres Database. This project is a basic example of fetching real time data from an open source API.
 
 Link: [API to Postgres](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Data_Api_to_Postgres)
