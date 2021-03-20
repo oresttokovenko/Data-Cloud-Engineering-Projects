@@ -29,7 +29,7 @@ In this project, I built a Data Lake on AWS cloud using Spark and AWS EMR cluste
 Link: [Data_Lake](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Data_Lake)
 
 ## Project 5: Data Pipelines with Airflow
-In this project, I orchestrated the Data Pipeline workflow using an open-source Apache project called Apache Airflow. I scheduled ETL jobs in Airflow, created project related custom plugins and operators and automated the pipeline execution. 
+In this project, I orchestrated a Data Pipeline workflow using an open-source Apache project called Apache Airflow. I scheduled ETL jobs in Airflow, created project related custom plugins and operators and automated the pipeline execution. 
 
 Link:  [Airflow_Data_Pipelines](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Airflow_Data_Pipelines)
 
