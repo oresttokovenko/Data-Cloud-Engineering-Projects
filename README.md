@@ -1,6 +1,6 @@
 # Data/Cloud Engineering Projects
 
-## Project 1: Data Modeling with Postgres
+## Project 1: Data Modeling with PostgreSQL
 In this project, I applied Data Modeling with PostgreSQL and build an ETL pipeline using Python. A startup wants to analyze the data that they have been collecting on songs and user activity on their new music streaming app. Currently, data is collected in JSON format and the analytics team is particularly interested in understanding which songs users are listening to.
 
 Link: [Data_Modeling_with_Postgres](https://github.com/oresttokovenko/Goodreads_ETL/tree/master/Data_Modeling_with_Postgres)
